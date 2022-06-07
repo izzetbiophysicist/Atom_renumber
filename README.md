@@ -1,4 +1,4 @@
-# renumber_residues
+# renumber_atoms
 Renumbers atoms in a molecule/residue using neighborhood coordinates
 
 Takes a residue with shuffled atom numbers, sets it as atom 1, finds its closest neighbor and numbers it atom 2. Switches to atom 2, finds its closest neighbor and so on
