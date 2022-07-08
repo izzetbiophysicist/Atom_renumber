@@ -3,7 +3,7 @@ Renumbers atoms in a molecule/residue using a distance criteria
 
 Takes a residue with shuffled atom numbers, sets it as atom 1, finds its closest neighbor and numbers it atom 2. Switches to atom 2, finds its closest neighbor and so on
 
-Takes a PDB, the ID of the residue to be renumbered and the nmber of the atom that will be considered as atom 1
+Takes as input a PDB, the ID of the residue to be renumbered and the nmber of the atom that will be considered as atom 1
 
 Usage:
 
